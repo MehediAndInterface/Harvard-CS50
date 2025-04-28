@@ -15,11 +15,12 @@
 11. Class 11: Basic C Syntax: Variables, Data Types, Operators.
 12. Class 12: Input and Output in C (printf, scanf).
 13. Class 13: .
-14. Class 14:Control Flow: if, else, else if Statements Control Flow: for, while, do...while Loops.
-15. Class 15: Functions in C: Defining and Calling Functions.
-16. Class 16: Arrays in C: Declaration, Initialization, and Usage.
-17. Class 17: Pointers in C: Introduction and Basic Concepts.
-18. Class 18: Strings in C: Character Arrays and String Manipulation.
+14. Class 14:Control Flow: if, else, else if Statements 
+15. Control Flow: for, while, do...while Loops.
+16. Class 15: Functions in C: Defining and Calling Functions.
+17. Class 16: Arrays in C: Declaration, Initialization, and Usage.
+18. Class 17: Pointers in C: Introduction and Basic Concepts.
+19. Class 18: Strings in C: Character Arrays and String Manipulation.
 
 ## Module 3: Web Development Fundamentals (12 Classes)
 19. Class 19: How the Internet Works: Client-Server Model, HTTP Protocol.
