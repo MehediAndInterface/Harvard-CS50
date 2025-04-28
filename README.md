@@ -14,8 +14,8 @@
 10. Class 10: Setting up the C Development Environment (Compiler, IDE).
 11. Class 11: Basic C Syntax: Variables, Data Types, Operators.
 12. Class 12: Input and Output in C (printf, scanf).
-13. Class 13: Control Flow: if, else, else if Statements.
-14. Class 14: Control Flow: for, while, do...while Loops.
+13. Class 13: .
+14. Class 14:Control Flow: if, else, else if Statements Control Flow: for, while, do...while Loops.
 15. Class 15: Functions in C: Defining and Calling Functions.
 16. Class 16: Arrays in C: Declaration, Initialization, and Usage.
 17. Class 17: Pointers in C: Introduction and Basic Concepts.
