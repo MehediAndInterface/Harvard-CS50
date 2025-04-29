@@ -69,3 +69,7 @@
 53. Class 53: Introduction to Cyber Security: Threats and Basic Concepts.
 54. Class 54: The Role of AI in Cyber Security (Introduction).
 55. Class 55: Ethical Considerations in Cyber Security.
+
+## Project
+1) Create personal portfolio website 
+2) Start Problem Solving / Competitive Programming
